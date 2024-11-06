@@ -75,7 +75,7 @@ The project relies on environment variables for configuration. Ensure you have t
 
 
 
-- [`OPENAI_API_KEY`](command:_github.copilot.openSymbolFromReferences?%5B%22%22%2C%5B%7B%22uri%22%3A%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fhome%2Ffoliveira%2Fprojects%2Fpersonal%2Fllm_data_engineering%2FREADME.md%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%2C%22pos%22%3A%7B%22line%22%3A7%2C%22character%22%3A11%7D%7D%5D%2C%2230b83037-dc5c-4a31-a33d-bf1f46fcd973%22%5D "Go to definition"): Your OpenAI API key.
+- [`OPENAI_API_KEY`]("Go to definition"): Your OpenAI API key.
 - `LANGCHAIN_DATABASE_URL`: The URL for your Postgres database.
 - `YOUR_EMAIL`: Your email address for notifications.
 
